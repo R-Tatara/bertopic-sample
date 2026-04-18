@@ -1,0 +1,32 @@
+===== Python =====
+__pycache__/
+*.py[cod]
+
+===== Virtual Environment =====
+.venv/
+
+===== Build / Packaging =====
+build/
+dist/
+*.egg-info/
+
+===== Test / Coverage =====
+.ruff_cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+===== OS =====
+.DS_Store
+Thumbs.db
+
+===== IDE / Editor =====
+.vscode/
+.idea/
+.claude/
+
+===== Logs =====
+*.log
+
+===== Others =====
+*.pt
