@@ -30,6 +30,7 @@ uv run python main.py
 - Detects topics from a set of Japanese documents using BERTopic
 - Prints topic assignments to the console
 - Displays a 2D scatter plot colored by topic
+![BERTopic Result](bertopic_result.png)
 
 ### Configuration
 
